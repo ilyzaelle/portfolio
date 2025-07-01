@@ -1,7 +1,7 @@
 {
   "name": "portfolio-leo",
   "version": "0.0.1",
-  "homepage": "https://gitname.github.io/react-gh-pages",
+  "homepage": "https://ilyzaelle.github.io/portfolio",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
